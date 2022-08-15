@@ -1,7 +1,11 @@
 # WarningList <a href="https://t.me/blockunityacademy">Blockunity Academy<a/>
 
-text-align : center;
-https://user-images.githubusercontent.com/72666334/184685225-a0dcbd27-3bdb-4644-b774-f23918628361.mp4
+<center> 
+        <p>
+          https://user-images.githubusercontent.com/72666334/184685225-a0dcbd27-3bdb-4644-b774-f23918628361.mp4
+        </p>
+</center>
+
 
 
 
